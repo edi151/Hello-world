@@ -1,1 +1,2 @@
-# Hello-world My name is Ernest Dunwoody and this is all new to me.
+# Hello-world My name is Ernest Dunwoody.
+It will be a miracle if this thingey works
